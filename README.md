@@ -10,20 +10,22 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-
+clone the program from gift hub
 ### STEP 2:
-
+create a new app in django project
 ### STEP 3:
-
-Write your own steps
+enter the code for admin.py and models.py
+### step 4:
+excecute a django admin and create a 10 football players.
 
 ## PROGRAM
-
-Include your code here
+![image](https://github.com/laharisindhu/django-orm-app/assets/150008257/46df083d-1284-4e47-9782-3a2a10292174)
 
 ## OUTPUT
+![image](https://github.com/laharisindhu/django-orm-app/assets/150008257/5da565d0-1476-4870-854f-2c35395f1726)
 
-Include the screenshot of your admin page.
+### result
+program excecuted successfully.
 
 
 ## RESULT
